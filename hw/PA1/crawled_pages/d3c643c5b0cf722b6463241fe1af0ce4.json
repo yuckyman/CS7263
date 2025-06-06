@@ -1,0 +1,5 @@
+{
+  "url": "http://nlp.stanford.edu/IR-book/html/htmledition/variant-tf-idf-functions-1.html",
+  "title": "Variant tf-idf functions",
+  "body": "\n\n\n\n\nVariant tf-idf functions\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Next: Sublinear tf scaling\n Up: Scoring, term weighting and\n Previous: Computing vector scores\n    Contents \n    Index\n\n\n\n\n \n\nVariant tf-idf functions\n \n For assigning a weight for each term in each document, a number of alternatives to tf and tf-idf have been considered. We discuss some of the principal ones here; a more complete development is deferred to Chapter 11 .  We will summarize these alternatives in Section 6.4.3 (page ).\n\n\n\n\nSubsections\n\nSublinear tf scaling\nMaximum tf normalization\nDocument and query weighting schemes\nPivoted normalized document length\n\n\n\n\n© 2008 Cambridge University PressThis is an automatically generated page. In case of formatting errors you may want to look at the PDF edition of the book.\n2009-04-07\n\n\n\n"
+}

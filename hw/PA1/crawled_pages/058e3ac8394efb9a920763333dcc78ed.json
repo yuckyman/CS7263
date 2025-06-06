@@ -1,0 +1,5 @@
+{
+  "url": "http://nlp.stanford.edu/IR-book/html/htmledition/determining-the-vocabulary-of-terms-1.html",
+  "title": "Determining the vocabulary of terms",
+  "body": "\n\n\n\n\nDetermining the vocabulary of terms\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Next: Tokenization\n Up: The term vocabulary and\n Previous: Choosing a document unit\n    Contents \n    Index\n\n\n\n   \n\nDetermining the vocabulary of terms\n\n\n\n\nSubsections\n\nTokenization\nDropping common terms: stop words\nNormalization (equivalence classing of terms)\n\nAccents and diacritics.\nCapitalization/case-folding.\nOther issues in English.\nOther languages.\n\n\nStemming and lemmatization\n\n\n\n\n© 2008 Cambridge University PressThis is an automatically generated page. In case of formatting errors you may want to look at the PDF edition of the book.\n2009-04-07\n\n\n\n"
+}

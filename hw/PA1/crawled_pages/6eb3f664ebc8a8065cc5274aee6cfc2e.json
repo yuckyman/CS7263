@@ -1,0 +1,5 @@
+{
+  "url": "http://nlp.stanford.edu/IR-book/html/htmledition/general-wildcard-queries-1.html",
+  "title": "General wildcard queries",
+  "body": "\n\n\n\n\nGeneral wildcard queries\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Next: Permuterm indexes\n Up: Wildcard queries\n Previous: Wildcard queries\n    Contents \n    Index\n\n\n\n\n\n\nGeneral wildcard queries\n We now study two techniques for handling general wildcard queries. Both techniques share a common strategy: express the given wildcard query  as a Boolean query  on a specially constructed index, such that the answer to  is a superset of the set of vocabulary terms matching . Then, we check each term in the answer to  against , discarding those vocabulary terms that do not match . At this point we have the vocabulary terms matching  and can resort to the standard inverted index.\n\n\n\n\n\nSubsections\n\nPermuterm indexes\n\n\n\n\n© 2008 Cambridge University PressThis is an automatically generated page. In case of formatting errors you may want to look at the PDF edition of the book.\n2009-04-07\n\n\n\n"
+}

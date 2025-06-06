@@ -1,0 +1,5 @@
+{
+  "url": "http://nlp.stanford.edu/IR-book/html/htmledition/sublinear-tf-scaling-1.html",
+  "title": "Sublinear tf scaling",
+  "body": "\n\n\n\n\nSublinear tf scaling\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Next: Maximum tf normalization\n Up: Variant tf-idf functions\n Previous: Variant tf-idf functions\n    Contents \n    Index\n\n\n\n\n\n\nSublinear tf scaling\n\nIt seems unlikely that twenty occurrences of a term in a document truly carry twenty times the significance of a single occurrence. Accordingly, there has been considerable research into variants of term frequency that go beyond counting the number of occurrences of a term. A common modification is to use instead the logarithm of the term frequency, which assigns a weight given by\n\n\n\n\n\n\n\n\n(28)\n\n\n\nIn this form, we may replace  by some other function  as in (28), to obtain:\n \n\n\n\n\n\n(29)\n\n\nEquation (23) can then be modified by replacing tf-idf by wf-idf as defined in (29).\n\n\n\n\n© 2008 Cambridge University PressThis is an automatically generated page. In case of formatting errors you may want to look at the PDF edition of the book.\n2009-04-07\n\n\n\n"
+}

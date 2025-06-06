@@ -1,0 +1,5 @@
+{
+  "url": "http://nlp.stanford.edu/IR-book/html/htmledition/global-methods-for-query-reformulation-1.html",
+  "title": "Global methods for query reformulation",
+  "body": "\n\n\n\n\nGlobal methods for query reformulation\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Next: Vocabulary tools for query\n Up: Relevance feedback and query\n Previous: Summary\n    Contents \n    Index\n\n\n\n \n\nGlobal methods for query reformulation\n\n\nIn this section we more briefly discuss three global methods for\nexpanding a query: by simply aiding the user in doing so, by using a\nmanual thesaurus, and through building a thesaurus automatically.\n\n\n\n\nSubsections\n\nVocabulary tools for query reformulation\nQuery expansion\nAutomatic thesaurus generation\n\n\n\n\n© 2008 Cambridge University PressThis is an automatically generated page. In case of formatting errors you may want to look at the PDF edition of the book.\n2009-04-07\n\n\n\n"
+}

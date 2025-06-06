@@ -1,0 +1,5 @@
+{
+  "url": "http://nlp.stanford.edu/IR-book/html/htmledition/web-crawling-and-indexes-1.html",
+  "title": "Web crawling and indexes",
+  "body": "\n\n\n\n\nWeb crawling and indexes\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Next: Overview\n Up: irbook\n Previous: References and further reading\n    Contents \n    Index\n\n\n\n\n\n\n\nWeb crawling and indexes\n\n\n\nSubsections\n\nOverview\n\nFeatures a crawler must provide\nFeatures a crawler should provide\n\n\nCrawling\n\nCrawler architecture\n\nDistributing the crawler\n\nDNS resolution\nThe URL frontier\n\n\nDistributing indexes\nConnectivity servers\nReferences and further reading\n\n\n\n\n© 2008 Cambridge University PressThis is an automatically generated page. In case of formatting errors you may want to look at the PDF edition of the book.\n2009-04-07\n\n\n\n"
+}

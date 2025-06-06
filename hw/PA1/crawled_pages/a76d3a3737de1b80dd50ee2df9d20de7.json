@@ -1,0 +1,5 @@
+{
+  "url": "http://nlp.stanford.edu/IR-book/html/htmledition/the-rocchio-algorithm-for-relevance-feedback-1.html",
+  "title": "The Rocchio algorithm for relevance feedback",
+  "body": "\n\n\n\n\nThe Rocchio algorithm for relevance feedback\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Next: The underlying theory.\n Up: Relevance feedback and pseudo\n Previous: Relevance feedback and pseudo\n    Contents \n    Index\n\n\n\n\n \n\nThe Rocchio algorithm for relevance feedback\n\n\nThe Rocchio Algorithm is the classic algorithm for\nimplementing relevance feedback. It models a way of incorporating\nrelevance feedback information into the vector space model of\nSection 6.3 .\n\n\n\n\nFigure 9.3:\nThe Rocchio optimal query for separating relevant and\n  nonrelevant documents.\n\n\n\n\n\n\nSubsections\n\n\nThe underlying theory.\nThe Rocchio (1971) algorithm.\n\n\n\n\n© 2008 Cambridge University PressThis is an automatically generated page. In case of formatting errors you may want to look at the PDF edition of the book.\n2009-04-07\n\n\n\n"
+}
