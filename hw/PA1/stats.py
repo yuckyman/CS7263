@@ -154,9 +154,10 @@ def compute_corpus_stats():
     print(f"Number of unique words: {unique_tokens}")
     print(f"Average page length (in words): {avg_tokens_per_doc:.2f}")
     
-    print("\nTop 30 most frequent words (with collection and document frequencies):")
+    print("\nTop 30 most frequent words (with collection and document frequencies):")  
+    print("token | collection freq | document freq")
     for token, freq in most_common_tokens:
-        print(f"{token}, Collection Freq: {freq}, Document Freq: {doc_freq[token]}")
+        print(f"{token} | {freq} | {doc_freq[token]}")
     
     print("\nTop 30 most frequent words after removing stop words:")
     for token, freq in most_common_filtered:
